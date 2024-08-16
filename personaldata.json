@@ -1,0 +1,9 @@
+{
+    "aboutme": {
+        "aboutme": "I am a passionate Python Developer with a deep love for web and software development. My journey in tech has been driven by a relentless curiosity and a commitment to mastering the craft. I thrive on solving complex problems, with a strong foundation in software design patterns, data structures, algorithms, and both object-oriented and functional programming paradigms. I'm proficient in Python and have honed my skills in database management, RESTful services, and Python frameworks like Flask, Django, and FastAPI. My enthusiasm for learning has also led me to explore the realms of machine learning and deep learning, where I enjoy working on model development, deployment, and high-volume data processing. I'm excited about the endless possibilities technology offers and am always eager to take on new challenges, contribute to innovative projects, and continue growing as a developer.",
+        "education": "B.Sc In Physics Honours",
+        "institute":"Berhampur University, Odisha",
+        "location":"Hyderabad, India",
+        "previous_employers":"Python Developer, Apollodart KI Solutions Pvt. LTD, Hyderabd, Telengana"
+    }
+}
